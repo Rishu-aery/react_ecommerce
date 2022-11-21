@@ -1,0 +1,83 @@
+body{
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+/* .navbar{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    border-radius: 0;
+    color: white;
+    display: flex;
+    align-items: center;
+} */
+/* .navbar img{
+    height: 50%;
+    border-radius: 50%;
+    margin-left: 60px;
+} */
+/* .navbar p{
+    margin: 0;
+    margin-left: 10px;
+} */
+
+
+.colorwhite{
+    color: white;
+    /* margin-left: 10px; */
+    padding-left: 142px;
+    font-size: 17px;
+}
+.navbar-brand img{
+    height: 50px;
+    border-radius: 50%;
+    transform: translate(130px,-1px);
+}
+.login{
+    color: white;
+}
+.login p{
+    font-size: 12px;
+    text-align: center;
+}
+.login h4{
+    font-size: 17px;
+    cursor: pointer;
+}
+.icon1{
+    font-size: small;
+    padding-left: 3px;
+}
+.d-flex{
+    width: 40%;
+    position: relative;
+    right: 100px;    
+}
+.d-flex button{
+    border-color:#F8A830 ;
+    color: #F8A830;
+}
+.d-flex button:hover{
+    background-color: #F8A830;
+    border-color:#F8A830 ;
+}
+.container-fluid .line{
+    height: 30px;
+    width: 1px;
+    background-color: gray;
+}
+.cart{
+    color: white;
+    display: flex;
+    gap: 4px;
+}
+.cart .icon2{
+    font-size: xx-large;
+}
