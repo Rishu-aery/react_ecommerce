@@ -1,8 +1,8 @@
 import React from 'react';
-import '../nav.css';
+import '../css/nav.css';
 import { Link } from "react-router-dom";
 
-export default function nav() {
+export default function nav () {
     return (
     <div className = "header">
         <nav className="navbar navbar-light bg-dark">
