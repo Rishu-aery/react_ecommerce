@@ -7,7 +7,7 @@ body{
     min-height: 100vh;
     margin: 0;
     padding: 0;
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(201, 197, 197,0.3);
 }
 
 p,h1,h2,h3,h4,h5,h6{
@@ -102,8 +102,10 @@ p,h1,h2,h3,h4,h5,h6{
     color:#F8A830
 }
 
-.slider{
-    height: 500px;
-    width: auto;
-    background-color: aqua;
+
+/* ----- Slider ------ */
+.image img{
+    height: 750px;
 }
+
+

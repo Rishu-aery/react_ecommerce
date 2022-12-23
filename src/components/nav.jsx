@@ -33,7 +33,7 @@ export default function nav () {
                     <Link to="/">Home</Link>
                 </li>
                 <li>
-                    <Link to="/product">Product</Link>
+                    <Link to="/product">Puzzels</Link>
                 </li>
                 <li>
                     <Link to="/category">Categories</Link>

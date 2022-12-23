@@ -6,7 +6,7 @@ export default function product() {
     return (
         <>
             <Nav></Nav>
-            <div>product</div>
+            <div>puzzels</div>
         </>
     )
 }
