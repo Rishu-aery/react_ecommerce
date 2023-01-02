@@ -1,0 +1,32 @@
+.footer{
+    min-height: 200px;
+    width: 100%;
+    background-color: white;
+}
+.footer .footer-info{
+    /* background-color: aqua; */
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 100px;
+    justify-content: space-evenly;
+}
+.footer-info div{
+    width: 300px;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+.footer-info div h2{
+    color: #F8A830;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.footer-info div ul{
+    list-style-type: none;
+    padding: 0;
+}
+.footer-info div ul li a{
+    text-decoration: none;
+    color: black;
+    line-height: 10px;
+}

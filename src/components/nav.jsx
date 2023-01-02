@@ -39,7 +39,7 @@ export default function nav () {
                     <Link to="/category">Categories</Link>
                 </li>
                 <li>
-                    <Link to="/About">About</Link>
+                    <Link to="/about">About</Link>
                 </li>
                 <li>
                     <Link to="/sales">Sales</Link>

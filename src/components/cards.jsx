@@ -7,7 +7,7 @@ export default function cards() {
       <img className='image' src="https://i.ytimg.com/vi/MyDnyfS7c1g/maxresdefault.jpg" />
       <div className='all_cards'>
         <div className='card'>
-          <img src="https://fakeimg.pl/1000x50" alt="Product Image" />
+          <img src="http://cdn.shopify.com/s/files/1/0270/0342/0758/products/17ae2itzGQ4VYmQ-QI8hQAqIX6OudqBSl.jpg?v=1656929596" alt="Product Image" />
           <h2>Drift 3M 3x3 (Magnetic)</h2>
           <p>₹ 599</p>
           <div className='star'>
@@ -20,7 +20,7 @@ export default function cards() {
         </div>
 
         <div className='card'>
-          <img src="https://fakeimg.pl/1000x50" alt="Product Image" />
+          <img src="http://cdn.shopify.com/s/files/1/0270/0342/0758/products/17ae2itzGQ4VYmQ-QI8hQAqIX6OudqBSl.jpg?v=1656929596" alt="Product Image" />
           <h2>Drift 3M 3x3 (Magnetic)</h2>
           <p>₹ 599</p>
           <div className='star'>
@@ -33,7 +33,7 @@ export default function cards() {
         </div>
 
         <div className='card'>
-          <img src="https://fakeimg.pl/1000x50" alt="Product Image" />
+          <img src="http://cdn.shopify.com/s/files/1/0270/0342/0758/products/17ae2itzGQ4VYmQ-QI8hQAqIX6OudqBSl.jpg?v=1656929596" alt="Product Image" />
           <h2>Drift 3M 3x3 (Magnetic)</h2>
           <p>₹ 599</p>
           <div className='star'>
@@ -46,7 +46,7 @@ export default function cards() {
         </div>
 
         <div className='card'>
-          <img src="https://fakeimg.pl/1000x50" alt="Product Image" />
+          <img src="http://cdn.shopify.com/s/files/1/0270/0342/0758/products/17ae2itzGQ4VYmQ-QI8hQAqIX6OudqBSl.jpg?v=1656929596" alt="Product Image" />
           <h2>Drift 3M 3x3 (Magnetic)</h2>
           <p>₹ 599</p>
           <div className='star'>
@@ -59,7 +59,7 @@ export default function cards() {
         </div>
 
         <div className='card'>
-          <img src="https://fakeimg.pl/1000x50" alt="Product Image" />
+          <img src="http://cdn.shopify.com/s/files/1/0270/0342/0758/products/17ae2itzGQ4VYmQ-QI8hQAqIX6OudqBSl.jpg?v=1656929596" alt="Product Image" />
           <h2>Drift 3M 3x3 (Magnetic)</h2>
           <p>₹ 599</p>
           <div className='star'>
@@ -72,17 +72,44 @@ export default function cards() {
         </div>
 
         <div className='card'>
-          <img src="https://fakeimg.pl/1000x50" alt="Product Image" />
+          <img src="http://cdn.shopify.com/s/files/1/0270/0342/0758/products/17ae2itzGQ4VYmQ-QI8hQAqIX6OudqBSl.jpg?v=1656929596" alt="Product Image" />
           <h2>Drift 3M 3x3 (Magnetic)</h2>
-          <p className='price'>₹ 599</p>
+          <p>₹ 599</p>
           <div className='star'>
             <i class="fa-solid fa-star"></i>
             <i class="fa-solid fa-star"></i>
             <i class="fa-solid fa-star"></i>
             <i class="fa-solid fa-star"></i>
           </div>
-          <p className='stock'>• in stock</p>
+          <p>• in stock</p>
         </div>
+
+        <div className='card'>
+          <img src="http://cdn.shopify.com/s/files/1/0270/0342/0758/products/17ae2itzGQ4VYmQ-QI8hQAqIX6OudqBSl.jpg?v=1656929596" alt="Product Image" />
+          <h2>Drift 3M 3x3 (Magnetic)</h2>
+          <p>₹ 599</p>
+          <div className='star'>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+          </div>
+          <p>• in stock</p>
+        </div>
+
+        <div className='card'>
+          <img src="http://cdn.shopify.com/s/files/1/0270/0342/0758/products/17ae2itzGQ4VYmQ-QI8hQAqIX6OudqBSl.jpg?v=1656929596" alt="Product Image" />
+          <h2>Drift 3M 3x3 (Magnetic)</h2>
+          <p>₹ 599</p>
+          <div className='star'>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+          </div>
+          <p>• in stock</p>
+        </div>
+        
       </div>
     </div>
   )
