@@ -18,7 +18,7 @@
 }
 
 .container .all_cards {
-    margin: 100px 0px 0px 0px;
+    /* margin: 100px 0px 0px 0px; */
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -35,7 +35,7 @@
     overflow: hidden;
 }
 .card:hover{
-    border: 1px solid #000000;
+    border: 1px solid #403c3c;
 }
 .card img {
     height: 300px;
@@ -61,14 +61,11 @@
 }
 
 .card p {
-    padding: 0 8px 12px 8px;
+    padding: 0px 8px 12px 8px;
+    /* color: #F8A830; */
 }
 
-.card p:nth-child(1) {
-    color: #F8A830;
-}
-
-.card p:nth-child(2) {
+.card .in-stock {
     color: #17bb08;
 }
 

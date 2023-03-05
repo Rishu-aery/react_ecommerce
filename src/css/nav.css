@@ -61,13 +61,14 @@ p,h1,h2,h3,h4,h5,h6{
     width: 1px;
     background-color: gray;
 }
-.cart{
+.cart a{
     color: white;
     display: flex;
     gap: 4px;
     cursor: pointer;
+    text-decoration: none;
 }
-.cart .icon2{
+.cart a .icon2{
     font-size: xx-large;
 }
 

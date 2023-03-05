@@ -21,17 +21,17 @@ function footer() {
                             <li><Link to="/about">Offers & Discounts</Link></li>
                             <li><Link to="/about">Sponsorships</Link></li>
                             <li><Link to="/about">Gift Card</Link></li>
-                            <li><Link to="/about">Contact Us</Link></li>
+                            <li><Link to="/contact">Contact Us</Link></li>
                         </ul>
                     </div>
                     <div>
                         <h2>CUSTOMER SERVICE</h2>
                         <ul>
-                            <li>FAQ</li>
-                            <li>Privacy Policy</li>
-                            <li>Shiping Policy</li>
-                            <li>Replacement Policy</li>
-                            <li>Terms And Conditions</li>
+                            <li><Link to="/about">FAQ</Link></li>
+                            <li><Link to="/about">Privacy Policy</Link></li>
+                            <li><Link to="/about">Shiping Policy</Link></li>
+                            <li><Link to="/about">Replacement Policy</Link></li>
+                            <li><Link to="/about">Terms and Conditions</Link></li>
                         </ul>
                     </div>
                     <div>
